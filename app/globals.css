@@ -115,11 +115,11 @@ em { color: var(--accent); font-style: italic; }
 }
 
 .project-one {
-  background-image: url('/images/project-1.jpg');
+  background-image: url('/images/project-2.jpg');
 }
 
 .project-two {
-  background-image: url('/images/project-2.jpg');
+  background-image: url('/images/project-1.jpg');
 }
 
 .project-three {
